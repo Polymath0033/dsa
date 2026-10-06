@@ -8,9 +8,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Polymath0033/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Polymath0033/dsa/tree/master/0027-remove-element) |
+| [0611-valid-triangle-number](https://github.com/Polymath0033/dsa/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Polymath0033/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Polymath0033/dsa/tree/master/0027-remove-element) |
+| [0611-valid-triangle-number](https://github.com/Polymath0033/dsa/tree/master/0611-valid-triangle-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Polymath0033/dsa/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Polymath0033/dsa/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Polymath0033/dsa/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
